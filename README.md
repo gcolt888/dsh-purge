@@ -1,3 +1,11 @@
+> **个人备份 · dsh-purge v1.1.71**
+>
+> 适配 DSH 桌面版 `0.2.0-rc.2`（2026-11-08 fork）。上游 `ZXEB/dsh-purge` 已删档，此为留存副本。
+>
+> **安装**：把 `https://github.com/gcolt888/dsh-purge/archive/refs/heads/master.tar.gz` 粘进 DSH 插件管理。
+> 装完必须把 `resources/app.asar` 改名成 `app.asar.bak`，否则补丁不生效（Windows 上这是必经一步）。
+
+---
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>
